@@ -18,13 +18,13 @@
 }
 .Quimica {
   width: 100%;
-  height: 350px;
+  height: 200px;
   background-color: rgb(172, 253, 186);
 }
 .tecnologia {
   width: 100%;
-  height: 450px;
-  background-color: rgb(86, 255, 247);
+  height: 550px;
+  background-color: rgb(139, 158, 222);
 }
 .matematicas {
   width: 100%;
