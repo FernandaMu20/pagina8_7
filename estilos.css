@@ -1,29 +1,29 @@
 /* Temas del segundo período*/
 
-.texto{
-   
-    font-size: 50px;
-    padding-top: 140px;
-    text-align: justify;
-    color: rgb(252, 255, 208);
+.texto {
+  font-size: 50px;
+  padding-top: 140px;
+  text-align: justify;
+  color: rgb(252, 255, 208);
 }
-.principal{
-   display: flex;
-     
+.principal {
+  display: flex;
 }
-body{
-    background-image: url("morado.jpg");
-    
-
+body {
+  background-image: url("morado.jpg");
 }
 
-
-
-.img1{
-    height: 400px;
-    width: 600px;
-    background-image: url("circuito.jpg");
-    background-repeat: no-repeat;
-    float: left;
+.img1 {
+  height: 400px;
+  width: 600px;
+  background-image: url("circuito.jpg");
+  background-repeat: no-repeat;
+  float: left;
 }
-   
+
+.img2 {
+  height: 450px;
+  width: 600px;
+  background-image: url("Paulí.jfif");
+  background-repeat: no-repeat;
+}
